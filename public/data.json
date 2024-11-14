@@ -1,0 +1,322 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/fnx7WK4/Dell-XPS-13-Plus-BD-Price-1.webp",
+    "category": "Laptops",
+    "price": 1200.99,
+    "description": "A high-performance laptop with a stunning display.",
+    "Specification": [
+      "13.3-inch FHD display",
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Apple MacBook Pro 16-inch",
+    "product_image": "https://i.ibb.co.com/gzXLvgQ/3713-9997.jpg",
+    "category": "MacBooks",
+    "price": 2499.99,
+    "description": "The powerful 16-inch MacBook Pro with Apple M1 chip.",
+    "Specification": [
+      "16-inch Retina display",
+      "Apple M1 Pro",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://i.ibb.co.com/94CfDwy/Galaxy-S21-FE-5-G-Navy-Blue-6635.jpg",
+    "category": "Phones",
+    "price": 799.99,
+    "description": "Experience next-level connectivity with Galaxy S21.",
+    "Specification": [
+      "6.2-inch AMOLED display",
+      "Exynos 2100",
+      "8GB RAM",
+      "128GB storage"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://i.ibb.co.com/VtwJpsL/Watch-S7-SS-Gold-800x800.jpg",
+    "category": "Smart Watches",
+    "price": 399.99,
+    "description": "A smartwatch for fitness and health tracking.",
+    "Specification": [
+      "45mm Retina display",
+      "Blood Oxygen sensor",
+      "ECG app",
+      "Water resistant"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Sony WH-1000XM4",
+    "product_image": "https://i.ibb.co.com/3f9SLds/q5gy2-RSo-RIw-Rm-FPLELLX2bu5e3-XUCBPH8-Dtxj-VGN.jpg",
+    "category": "Accessories",
+    "price": 348.99,
+    "description": "Noise-canceling headphones with long battery life.",
+    "Specification": [
+      "Wireless over-ear headphones",
+      "Active Noise Cancellation",
+      "30 hours battery life",
+      "Quick Charge"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/RpXFG4T/Lenovo-Think-Pad-X1-Carbon-Gen11-O1-WW-11-P-price-in-Bangladesh-MC-Solution-BD-1200x900.webp",
+    "category": "Laptops",
+    "price": 1399.99,
+    "description": "A durable laptop with impressive performance.",
+    "Specification": [
+      "14-inch UHD display",
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Apple iPhone 13 Pro",
+    "product_image": "https://i.ibb.co.com/3R395rD/3412-49256.jpg",
+    "category": "iPhones",
+    "price": 999.99,
+    "description": "The latest iPhone with enhanced camera and display.",
+    "Specification": [
+      "6.1-inch Super Retina XDR display",
+      "A15 Bionic chip",
+      "128GB storage",
+      "5G capable"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Google Pixel 6",
+    "product_image": "https://i.ibb.co.com/nm78sBN/Pixel-6-Pro.jpg",
+    "category": "Phones",
+    "price": 699.99,
+    "description": "Google’s latest smartphone with Tensor chip.",
+    "Specification": [
+      "6.4-inch OLED display",
+      "Google Tensor processor",
+      "8GB RAM",
+      "128GB storage"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.ibb.co.com/KqR22qb/microsoft-surface-laptop-4-core-i7-laptop-1-1000x1000-jpg.webp",
+    "category": "Laptops",
+    "price": 999.99,
+    "description": "Thin, light, and powerful laptop for work and play.",
+    "Specification": [
+      "13.5-inch PixelSense display",
+      "Intel Core i5",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/WKg61my/6162-IS3zi-JS-AC-SL1500.jpg",
+    "category": "Smart Watches",
+    "price": 229.99,
+    "description": "Advanced health and fitness smartwatch.",
+    "Specification": [
+      "GPS tracking",
+      "Heart rate monitor",
+      "Sleep tracking",
+      "6-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P011",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/9yqfP9S/HP-Spectre-x360-Convertible-14-EF2013-DX-a-1801.jpg",
+    "category": "Laptops",
+    "price": 1299.99,
+    "description": "A convertible laptop with 4K display and sleek design.",
+    "Specification": [
+      "13.3-inch 4K display",
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P012",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/qBTpYcv/Samsung-Galaxy-Watch-4-44mm-R870-1.jpg",
+    "category": "Smart Watches",
+    "price": 249.99,
+    "description": "Stylish smartwatch with advanced health features.",
+    "Specification": [
+      "44mm Super AMOLED display",
+      "Blood pressure monitoring",
+      "Heart rate sensor",
+      "Sleep tracking"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P013",
+    "product_title": "Beats Studio Buds",
+    "product_image": "https://i.ibb.co.com/bRFs0g8/Beats-Studio-Buds-6-4577.jpg",
+    "category": "Accessories",
+    "price": 149.99,
+    "description": "True wireless noise-canceling earbuds.",
+    "Specification": [
+      "Noise-canceling",
+      "8 hours of listening time",
+      "USB-C charging",
+      "Compatible with iOS and Android"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P014",
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/8bDbW9s/Asus-ROG-Zephyrus-9-1.webp",
+    "category": "Laptops",
+    "price": 1599.99,
+    "description": "High-performance gaming laptop with powerful specs.",
+    "Specification": [
+      "14-inch QHD display",
+      "AMD Ryzen 9",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P015",
+    "product_title": "OnePlus 9 Pro",
+    "product_image": "https://i.ibb.co.com/Jy2yNYW/Oneplus-9-Pro-12-256-1.jpg",
+    "category": "Phones",
+    "price": 969.99,
+    "description": "Flagship smartphone with ultra-fast performance.",
+    "Specification": [
+      "6.7-inch Fluid AMOLED display",
+      "Snapdragon 888",
+      "12GB RAM",
+      "256GB storage"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P016",
+    "product_title": "MacBook Air M1",
+    "product_image": "https://i.ibb.co.com/xgWvbdR/APPLE-Macbook-Air-8-1.webp",
+    "category": "MacBooks",
+    "price": 999.99,
+    "description": "The lightweight MacBook with the powerful M1 chip.",
+    "Specification": [
+      "13.3-inch Retina display",
+      "Apple M1 chip",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P017",
+    "product_title": "Logitech MX Master 3",
+    "product_image": "https://i.ibb.co.com/pQbVXw8/4127-72278.jpg",
+    "category": "Accessories",
+    "price": 99.99,
+    "description": "Advanced wireless mouse with ergonomic design.",
+    "Specification": [
+      "Ultrafast scrolling",
+      "USB-C rechargeable",
+      "Bluetooth & USB receiver",
+      "4000 DPI sensor"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P018",
+    "product_title": "Huawei MateBook X Pro",
+    "product_image": "https://i.ibb.co.com/Yj1P4Qx/Huawei-Mate-Book-X-Pro-featured-image-packshot-review.jpg",
+    "category": "Laptops",
+    "price": 1499.99,
+    "description": "Stylish and powerful laptop with a 3K display.",
+    "Specification": [
+      "13.9-inch 3K display",
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P019",
+    "product_title": "Oculus Quest 2",
+    "product_image": "https://i.ibb.co.com/LRHJFzb/Quest-2-with-packaging-e1655285167323.jpg",
+    "category": "Accessories",
+    "price": 299.99,
+    "description": "Advanced all-in-one VR headset.",
+    "Specification": [
+      "High-resolution display",
+      "64GB storage",
+      "Wireless VR experience",
+      "Supports VR gaming"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P020",
+    "product_title": "Garmin Forerunner 245",
+    "product_image": "https://i.ibb.co.com/pbbrHzn/cf-lg-68fc3b16-996d-47fc-8b75-fe7c6c9ac50d.webp",
+    "category": "Smart Watches",
+    "price": 299.99,
+    "description": "GPS running smartwatch with training features.",
+    "Specification": [
+      "GPS tracking",
+      "Heart rate monitor",
+      "VO2 max measurement",
+      "7-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.4
+  }
+]
